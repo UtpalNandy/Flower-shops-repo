@@ -1,0 +1,227 @@
+/* common shared google fonts */
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+/* Header part */
+.header{
+    background-color: #E554731A;
+    /* background-size: cover;  */
+
+}
+
+.header_title{
+    /* padding: 197px 972px 365px 240px; */
+    font-size: 70px;
+    font-weight: 700;
+    color: #272727;
+    margin-bottom: 32px;
+}
+
+.header_description{
+    /* margin-top: 32px; */
+    margin-bottom: 32px;
+
+    font-size: 18px;
+    font-weight: 400;
+    color: #27272799;
+}
+
+.banner{
+    margin: 0px 50px 90px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.btn-primary{
+    background-color: #E55473;
+    border: none;
+    color: white;
+    padding: 20px 42px 20px 42px;
+    border-radius: 8px;
+}
+
+.banner .hearder_img{
+    width: 550px;
+}
+
+/* Main part */
+
+.features_txt{
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.features_description{
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0px 400px 10px 400px;
+}
+
+.img_txt{
+    text-align: center;
+    padding-bottom: 350px;
+}
+
+
+
+.list_ref {
+    display: flex;
+    text-align: center;
+    margin-right: 50px;
+}
+.list_txt{
+    
+    /* margin-right: 120px; */
+    margin-left: 160px;
+}
+.list_txt_one{
+    
+    /* margin-right: 120px; */
+    margin-left: 360px;
+}
+
+.list_txt_two{
+
+    /* margin-right: 120px; */
+    margin-left: 350px;
+}
+
+.fst_flower{
+    background-color: #A7216226;
+    padding: 50px 50px 0px 50px;
+    margin: 10px;
+    border-radius: 300px 300px 0px 0px;
+
+}
+
+.snd_flower{
+    background-color: #0597A026;
+    padding: 67px 10px 40px 40px;
+    margin: 10px;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.third_flower{
+    background-color: #477D1126;
+    padding: 7px 20px 0px 40px;
+    margin: 10px;
+    border-radius: 300px 300px 0px 0px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+
+.support_content{
+    margin-bottom: 40px;
+}
+
+.ideas{
+    background-color: #2727270D;
+    margin: 10px 40px 10px 48px;
+    padding: 50px;
+    text-align: center;
+    display: flex;
+}
+
+.ideas_one{
+    padding: 30px;
+    margin-left: 80px;
+}
+
+span{
+    color: #E55473;
+}
+
+.off_sell{
+    text-align: justify;
+    margin: 60px 0px 0px 0px;
+    text-align: center;
+}
+.off_para{
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 150px 10px 150px;
+}
+.sell_div{
+    background-color: #E554730D;
+    background-size: cover;
+    /* margin-right: 60px;
+    padding: 0 px 60px 40px 0px; */
+    display: flex;
+}
+
+.last_flower{
+    margin-right: 120px;
+    padding: 20px 30px 20px 30px;
+    width: 250px;
+}
+
+.flower_img{
+    /* margin-left: 200px; */
+    padding: 60px 10px 10px 20px;
+    width: 200px;
+
+}
+
+.last_list{
+    display: flex;
+    padding: 10px;
+    margin-left: 200px;
+
+}
+
+.input_opt{
+    padding: 10px 50px 10px 50px;
+    margin-left: 60px;
+}
+.input{
+    padding: 18px 250px 18px 80px;
+    border-color: white;
+    border-radius: 8px;
+    text-align: start;
+    margin-left: 150px;
+}
+
+.input_cont{
+    
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    margin: 20px 80px 20px 80px;
+    padding: 20px 0px 80px 0px;
+    border-radius: 5px;
+}
+
+.footer_txt{
+    margin-top: 60px;
+    color: white;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0px 400px 10px 400px;
+}
+.footer{
+    background-color: #272727;
+}
+.footer_title{
+    padding: 30px 0px 10px 0px;
+}
+
+.Footer_para{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0px 400px 10px 400px;
+}
+
+.rights{
+    color: aliceblue;
+    text-align: center;
+    padding-bottom: 60px;
+}
